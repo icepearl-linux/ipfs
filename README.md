@@ -1,6 +1,6 @@
 # IPFS (Icepearl File System)
 
-**This project is coming soon!** IPFS (Icepearl File System) was fast and easy way to get the pearls. But IPFS was based on [Alpine Linux](https://alpinelinux.org/) [LFS](https://linuxfromscratch.org/).
+**This project was work in progress!** IPFS (Icepearl File System) was fast and easy way to get the pearls. But IPFS was based on [Alpine Linux](https://alpinelinux.org/) and [LFS Project](https://linuxfromscratch.org/).
 
 ## License
 
