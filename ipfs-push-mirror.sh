@@ -3,7 +3,7 @@ DIALOG_CANCEL=1
 DIALOG_ESC=255
 message=$(whiptail --title "Mirror push commit" \
 	           --inputbox "Enter your commit message to push icepearl (GitLab) and icepearl-mirror (GitHub):" 10 60 \
-	           3>&1 2>&1 1>&3 3>&-)
+	           3>&1 1>&2 2>&3)
 exit_status=$?
 case $exit_status in
     $DIALOG_CANCEL) exit ;;
